@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Before you decided on adding a Gem"
-date:       2021-06-17 22:04:48 +0000
+title:      "Before you decide on adding a Gem"
+date:       2021-06-17 18:04:48 -0400
 permalink:  before_you_decided_on_adding_a_gem
 ---
 
