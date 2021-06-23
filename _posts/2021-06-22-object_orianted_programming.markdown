@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Object Orianted Programming "
-date:       2021-06-23 02:59:33 +0000
+title:      "Object Oriented Programming "
+date:       2021-06-22 22:59:33 -0400
 permalink:  object_orianted_programming
 ---
 
